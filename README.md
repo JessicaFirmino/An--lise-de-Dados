@@ -23,3 +23,4 @@ Foi calculado o valor total das vendas dos cursos.
 
 Visuaização das vendas por data com as informações sendo visualizadas atráves de um gráfico
 
+Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request com melhorias ou correções.
